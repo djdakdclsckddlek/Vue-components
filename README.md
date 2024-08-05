@@ -1,7 +1,5 @@
 # compos
 
-d
-
 ## Project setup
 
 ```
